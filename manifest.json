@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Praan Kheti — AI Crop Health Guardian",
+  "short_name": "PraanKheti",
+  "description": "Proactive AI crop disease detection, 3D Digital Farm Twin, and mobile alert & alarm guardian for Indian smallholder farmers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090D0A",
+  "theme_color": "#064E3B",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

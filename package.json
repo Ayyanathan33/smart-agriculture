@@ -1,0 +1,19 @@
+{
+  "name": "smart-agriculture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-DSj3TDBa.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
